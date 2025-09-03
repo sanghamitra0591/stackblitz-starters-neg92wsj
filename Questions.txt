@@ -1,0 +1,26 @@
+# **Advanced Live Coding Challenge Instructions**
+
+**Duration:** 2 Hours  
+**Difficulty Level:** Senior Developer  
+**Assessment Type:** Full-Stack E-commerce Development
+
+⚠️ **IMPORTANT: AI Tool Usage Prohibited**
+- No ChatGPT, GitHub Copilot, or any AI-assisted coding tools
+- No AI-powered code completion or suggestion tools
+- Documentation and official framework references are allowed
+- Stack Overflow and similar technical resources are permitted
+
+---
+
+## **Challenge Overview**
+
+You will build a **Simple E-commerce Platform** with product management, shopping cart functionality, and search capabilities. The application should demonstrate good code quality and architecture suitable for production deployment.
+
+
+
+Home Page
+Product page - Search, Add Product, Products, Add to cart (multiple)
+Cart page
+Checkout page
+
+Name, Desc, Price, image
